@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- 背景 -->
+  <rect width="32" height="32" rx="8" fill="#9ACD32"/>
+  
+  <!-- Y字型のウォーキングパスを白で表現 -->
+  <path d="M8 24L16 8L24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 駅を表す点 -->
+  <circle cx="16" cy="8" r="3" fill="white"/>
+  <circle cx="8" cy="24" r="3" fill="white"/>
+  <circle cx="24" cy="24" r="3" fill="white"/>
+</svg>
